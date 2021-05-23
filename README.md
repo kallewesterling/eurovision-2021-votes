@@ -1,4 +1,11 @@
-# eurovision-2021-votes
+# Jury votes and Televotes from Eurovision 2021 Grand Finale
+
+## Data files
+
+Data files are available in the following formats:
+
+- [`votes.csv`](data/votes.csv) (`CSV`)
+- [`votes.xls`](data/votes.xls) (`Microsoft Excel`)
 
 ## Source
 Data source is the [Eurovision website](https://eurovision.tv/event/rotterdam-2021/grand-final/results/).
